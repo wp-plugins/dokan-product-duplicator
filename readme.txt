@@ -12,7 +12,7 @@ Duplicate other sellers product to your store on Dokan marketplace.
 
 == Description ==
 
-> #### Product Duplicator for the **Dokan** plugin.
+> #### Product Duplicator for **Dokan** plugin.
 
 > You can install [**Dokan Lite**](https://wordpress.org/plugins/dokan-lite/) plugin or you can get the [**Pro Version**](http://wedevs.com/theme/dokan/?utm_source=wporg&utm_medium=cta&utm_campaign=dokan-product-duplicator) of Dokan which includes lots of features than the free one.
 
